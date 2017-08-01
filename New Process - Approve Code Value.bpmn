@@ -4,7 +4,7 @@
     <participant id="pool1" name="Code Value Approval Process" processRef="CodeValueApprovalProcess"></participant>
   </collaboration>
   <process id="CodeValueApprovalProcess" name="Code Value Approval Process" isExecutable="true">
-    <documentation>CodeValueApprovalProcess.</documentation>
+    <documentation>CodeValueApprovalProcess. Generic Approval process.</documentation>
     <laneSet id="laneSet_CodeValueApprovalProcess">
       <lane id="lane1" name="Start User">
         <flowNodeRef>startevent1</flowNodeRef>
